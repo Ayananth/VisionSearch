@@ -1,2 +1,16 @@
-.env
+.venv/
+
+__pycache__/
+
+uploads/
+
+*.pyc
+
+*.db
+
+.idea/
+
+.vscode/
+
 env
+.env
